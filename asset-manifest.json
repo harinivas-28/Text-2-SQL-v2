@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Text-2-SQL-v2/static/css/main.6869d6b7.css",
-    "main.js": "/Text-2-SQL-v2/static/js/main.2323328f.js",
+    "main.js": "/Text-2-SQL-v2/static/js/main.22e75efc.js",
     "static/js/453.3e1430f3.chunk.js": "/Text-2-SQL-v2/static/js/453.3e1430f3.chunk.js",
     "static/media/moon.png": "/Text-2-SQL-v2/static/media/moon.e5585e508bad58301c6c.png",
     "index.html": "/Text-2-SQL-v2/index.html",
     "main.6869d6b7.css.map": "/Text-2-SQL-v2/static/css/main.6869d6b7.css.map",
-    "main.2323328f.js.map": "/Text-2-SQL-v2/static/js/main.2323328f.js.map",
+    "main.22e75efc.js.map": "/Text-2-SQL-v2/static/js/main.22e75efc.js.map",
     "453.3e1430f3.chunk.js.map": "/Text-2-SQL-v2/static/js/453.3e1430f3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6869d6b7.css",
-    "static/js/main.2323328f.js"
+    "static/js/main.22e75efc.js"
   ]
 }

@@ -1,0 +1,8 @@
+node_modules
+uploads
+output_plots
+dist
+build
+*.log
+.env*
+*.sqlite

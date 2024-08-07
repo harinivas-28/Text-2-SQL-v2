@@ -80,15 +80,14 @@ function App() {
         );
 
         try {
-            const response = await Promise.race([
-                axios.post('http://localhost:5000/api/query', formData, {
-                    headers: {
-                        'Content-Type': 'multipart/form-data',
-                    },
-                    cancelToken: axiosSource.token,
-                }),
-                timeoutPromise,
-            ]);
+             // Inside your handleSubmit function (or similar):
+            const response = await fetch('https://text-2-sql-v2.onrender.com/api/query', {
+                method: 'POST',
+                body: formData,
+                headers: {
+                    'Content-Type': 'multipart/form-data' 
+                }
+            });
 
             setQuery(response.data.query);
             setResult(response.data.result);

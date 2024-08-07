@@ -12,7 +12,15 @@ const port = process.env.PORT || 5000;
 app.use(cors());
 app.use('/output_plots', express.static(path.join(__dirname, 'output_plots')));
 
-const upload = multer({ dest: 'uploads/' });
+const upload = multer({ 
+    dest: 'uploads/',
+    // Add this line:
+    limits: { 
+        fieldNameSize: 1000 // This is for large file names, which some browsers allow.
+    },
+    // Add this line
+    boundary: '---------------------------' + Math.random().toString(16).substring(2), // Unique boundary per request 
+});
 
 app.post('/api/query',  cors(), upload.single('file'), (req, res) => {
   const { question } = req.body;

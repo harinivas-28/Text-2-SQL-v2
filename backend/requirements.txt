@@ -1,1 +1,6 @@
+transformers
+pandas
+sqlite3
+matplotlib
+seaborn
 

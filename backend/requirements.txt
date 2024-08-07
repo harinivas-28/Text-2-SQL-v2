@@ -1,5 +1,4 @@
-transformers
-pandas
-matplotlib
-seaborn
-
+transformers==4.29.0
+pandas==2.0.2
+matplotlib==3.7.1
+seaborn==0.12.2

@@ -1,6 +1,7 @@
 # Views
-![image](https://github.com/harinivas-28/SignIn-SignUp-Page/assets/150525075/294eb8c1-5dbd-486f-a5e4-c2aafae588e0)
-![image](https://github.com/harinivas-28/SignIn-SignUp-Page/assets/150525075/294eb8c1-5dbd-486f-a5e4-c2aafae588e0)
+![image](https://github.com/harinivas-28/Text-2-SQL-v2/blob/main/Screenshot%202024-08-04%20142208.png)
+![image](https://github.com/harinivas-28/Text-2-SQL-v2/blob/main/Screenshot%202024-08-04%20142255.png)
+![image](https://github.com/harinivas-28/Text-2-SQL-v2/blob/main/Screenshot%202024-08-04%20142433.png)
 
 # Getting Started with Create React App
 

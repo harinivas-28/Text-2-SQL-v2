@@ -1,3 +1,6 @@
+# Checkout my new version of Text to SQL V3
+[Github Repo](https://github.com/harinivas-28/Text-2-SQL-v3) <br>
+[Live App](text2sql-v3.onrender.com)
 # Views
 ![image](https://github.com/harinivas-28/Text-2-SQL-v2/blob/main/Screenshot%202024-08-04%20142208.png)
 ![image](https://github.com/harinivas-28/Text-2-SQL-v2/blob/main/Screenshot%202024-08-04%20142255.png)
